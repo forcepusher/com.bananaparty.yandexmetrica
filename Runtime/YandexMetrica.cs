@@ -1,7 +1,7 @@
 using System.Runtime.InteropServices;
 using UnityEngine;
 
-namespace Agava.YandexMetrica
+namespace BananaParty.YandexMetrica
 {
     public static class YandexMetrica
     {

@@ -896,8 +896,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2115211758}
-        m_TargetAssemblyTypeName: Agava.YandexMetrica.Samples.PlaytestingCanvas,
-          Agava.YandexGames.Samples.Playtesting
+        m_TargetAssemblyTypeName: BananaParty.YandexMetrica.Samples.PlaytestingCanvas,
+          BananaParty.YandexGames.Samples.Playtesting
         m_MethodName: OnSendButtonClick
         m_Mode: 1
         m_Arguments:

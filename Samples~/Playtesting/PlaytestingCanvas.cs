@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Agava.YandexMetrica.Samples
+namespace BananaParty.YandexMetrica.Samples
 {
     public class PlaytestingCanvas : MonoBehaviour
     {

@@ -1,7 +1,7 @@
 using UnityEngine;
 using NUnit.Framework;
 
-namespace Agava.YandexMetrica.Tests
+namespace BananaParty.YandexMetrica.Tests
 {
     public class MetricaTests : MonoBehaviour
     {

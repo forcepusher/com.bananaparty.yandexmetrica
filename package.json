@@ -1,9 +1,9 @@
 {
-  "name": "com.agava.yandexmetrica",
-  "version": "1.2.1",
+  "name": "com.bananaparty.yandexmetrica",
+  "version": "2.0.0",
   "displayName": "Yandex Metrica",
   "type": "library",
-  "unity": "2020.3",
+  "unity": "2022.3",
   "description": "Yandex Metrica Unity SDK for the WebGL platform.",
   "license": "MIT",
   "samples": [
